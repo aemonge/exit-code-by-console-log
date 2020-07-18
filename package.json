@@ -1,0 +1,19 @@
+{
+  "name": "exit-code-by-console-log",
+  "version": "0.0.1",
+  "description": "Set the exit code return value from process to a none-zero error code when console.error is been called, and reset such if a console.log is used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "console",
+    "exitCode",
+    "exit",
+    "cli"
+  ],
+  "author": "aemonge",
+  "license": "ISC"
+}
